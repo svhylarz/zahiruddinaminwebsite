@@ -1,0 +1,84 @@
+h1
+{
+	font-family: Audiowide, sans-serif;
+}
+
+h2
+{
+	font-family: Audiowide, sans-serif; color: midnightblue;
+}
+
+
+h3
+{
+	font-family: Audiowide;
+}
+
+h4
+{
+	font-family: Audiowide;
+}
+
+p
+{
+	font-family: Audiowide;
+	
+}
+
+th
+{
+	font-family: Audiowide;
+}
+
+td
+{
+	font-family: Aleo;
+}
+
+li
+{
+	font-family: Aleo;
+}
+
+h2
+{
+	font-family: Aleo;
+}
+
+p
+{
+	font-family: Aleo;
+}
+
+a 
+{
+	font-family: Audiowide;
+	font-size: 150%;
+}
+
+header
+{
+	display: flex;
+	justify-content: center;
+	align-content: space-between;
+	padding: 10px 10px;
+	font-family: Aboreto;
+	font-size: 100%;
+	text-align: center;
+}
+
+footer
+{
+	display: flex;
+	justify-content: center;
+	align-content: space-between;
+	padding: 10px 20px;
+	font-family: Audiowide;
+	font-size: 100%;
+	text-align: center;
+}
+
+h2
+{
+	font-family: Audiowide, sans-serif; color: black;
+}
